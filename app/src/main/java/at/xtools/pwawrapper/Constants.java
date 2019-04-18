@@ -3,7 +3,7 @@ package at.xtools.pwawrapper;
 public class Constants {
     public Constants(){}
     // Root page
-    public static String WEBAPP_URL = "https://www.leasingrechnen.at/";
+    public static String WEBAPP_URL = "https://forms.gle/2cExDWteDk71wEc19/";
     public static String WEBAPP_HOST = "leasingrechnen.at"; // used for checking Intent-URLs
 
 	// User Agent tweaks
